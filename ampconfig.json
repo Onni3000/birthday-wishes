@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.1",
+  "appInfo": {
+    "name": "Birthday Wishes",
+    "description": "",
+    "version": "ls2qbisj",
+    "id": "cl10zf2ly11344701s6a3wn6a65",
+    "url": "https://app.amplication.com/cl10zf2ly11344701s6a3wn6a65",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl10zf2ly11344701s6a3wn6a65",
+      "authProvider": "Jwt"
+    }
+  }
+}
